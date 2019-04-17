@@ -5,5 +5,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In this project was used:
 - [Material UI](https://material-ui.com/).
 
-[`Link to the published project`](https://natcancein.github.io/markdown-previewer/)
+[`Link to the published project`](https://natcancein.github.io/random-quote-machine/)
 
