@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/FreeCodeCamp/FrontEndLibrariesProjects/build-random-quote-machine/precache-manifest.4162ce09e16d82e7186f69c734ebefee.js"
+  "/random-quote-machine/precache-manifest.880870adb5f2325d1795fd9fc114204b.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/FreeCodeCamp/FrontEndLibrariesProjects/build-random-quote-machine/index.html", {
+workbox.routing.registerNavigationRoute("/random-quote-machine/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
